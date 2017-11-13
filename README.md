@@ -6,7 +6,7 @@ Add the power of events to your TypeScript projects.
 [![forever](https://david-dm.org/KeesCBakker/Strongly-Typed-Events-for-TypeScript.svg)](https://david-dm.org/KeesCBakker/Strongly-Typed-Events-for-TypeScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## @types/strongly-Typed-Events
+## @types/strongly-typed-events
 
 This only a @types repo for [Strongly Typed Events for TypeScript](https://github.com/KeesCBakker/Strongly-Typed-Events-for-TypeScript).
 
@@ -20,7 +20,7 @@ Please refers to offical repository for documentation.
   "name": "your-app",
   "private": true,
   "dependencies":{
-      "@types/secret-library": "git://github.com/huchim/Strongly-Typed-Events-for-TypeScript.git"
+      "@types/strongly-typed-events": "git://github.com/huchim/Strongly-Typed-Events-for-TypeScript.git"
   }
 }
 ```
