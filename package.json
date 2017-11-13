@@ -1,0 +1,19 @@
+{
+    "name": "@types/strongly-typed-events",
+    "version": "1.0.1",
+    "description": "Add the power of events to your (TypeScript) projects!",
+    "license": "MIT",
+    "author": "Qubo <https://github.com/tkqubo>",
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {
+		"@types/chai": "^3.4.35",
+		"@types/mocha": "^2.2.40"
+	},
+    "typings": "strongly-typed-events.d.ts",
+    "typesPublisherContentHash": "c4ed3c8eeb21e9b50992e8b0e1659bcf2918517755fccb848db96efa58bd9f34"
+}
