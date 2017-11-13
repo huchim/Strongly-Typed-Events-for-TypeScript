@@ -20,7 +20,7 @@ Please refers to offical repository for documentation.
   "name": "your-app",
   "private": true,
   "dependencies":{
-      "@types/strongly-typed-events": "git://github.com/huchim/Strongly-Typed-Events-for-TypeScript.git"
+      "@types/strongly-typed-events": "https://github.com/huchim/Strongly-Typed-Events-for-TypeScript.git"
   }
 }
 ```
